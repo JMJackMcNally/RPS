@@ -1,8 +1,6 @@
 # RPS
 A simple Rock Paper Scissors game built as a multi-client server program.
 
-This project was made for Dr. Lisa Frye's Network and Secure Programming course at Kutztown University in Fall of 2021.
-
 Authors:
 - Jack McNally
 - Justin Hudoka
